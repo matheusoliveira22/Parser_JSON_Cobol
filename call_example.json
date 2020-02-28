@@ -1,0 +1,19 @@
+{
+    "client-data":{
+        "nome":"Matheus Oliveira dos Santos",
+        "idade":18,
+        "saldo":100.00,
+        "transacoes-quant":2,
+        "transacoes":[
+            {
+                "valor":10.00,
+                "data-efetivacao":"21/02/2020"
+            },
+            {
+                "valor":15.00,
+                "data-efetivacao":"26/02/2020"
+            }
+        ]
+    }
+}
+
